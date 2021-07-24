@@ -1,0 +1,1 @@
+<?php $result=77+39; echo $result ?>
